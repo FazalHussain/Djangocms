@@ -29,7 +29,11 @@
         {% render_block "css" %}
     </head>
     <body>
-        {% cms_toolbar %}
+      {% cms_toolbar %}
+      {% load cms_tags %}
+      {% placeholder base_product %}
+      {% block base_product %}
+      {% endblock %}
         <div class="container">
             <ul class="nav">
                 {% show_menu 0 100 100 100 %}

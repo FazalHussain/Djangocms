@@ -18,7 +18,11 @@ django-classy-tags>=0.7
 html5lib>=0.999999,<0.99999999
 Pillow>=3.0
 django-sekizai>=0.9
+<<<<<<< HEAD
 six
 gunicorn==19.7.1
 psycopg2==2.7.3.2
 whitenoise==3.3.1
+=======
+six
+>>>>>>> 07f5f3da0e0bbdb601a04d389a8db007841bb2f3

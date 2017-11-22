@@ -1,0 +1,1 @@
+web: gunicorn techoryze.wsgi --log-file -

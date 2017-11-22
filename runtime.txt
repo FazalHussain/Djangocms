@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 python-2.7.14
+=======
+Python 2.7
+>>>>>>> 07f5f3da0e0bbdb601a04d389a8db007841bb2f3
